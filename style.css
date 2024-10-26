@@ -1,0 +1,21 @@
+*{
+    font-family: "Open Sans", sans-serif; 
+}
+h1{
+    color:#e63946;
+}
+img,figure{
+    display:inline-block;
+    margin: 20px
+    
+}
+footer {
+    height: 50px;
+    margin:0px ;
+}
+.player-container {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top; 
+}
